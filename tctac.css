@@ -1,0 +1,26 @@
+*{
+    background-color: aqua;
+}
+
+
+table td{
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    border: solid black;
+    margin: 2px;
+    padding: auto;
+
+}
+#container {
+    display: flex;
+    justify-content: center;
+}
+#head {
+    display: flex;
+    justify-content: center;
+}
+#winner {
+    display: flex;
+    justify-content: center;
+}
